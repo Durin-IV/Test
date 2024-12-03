@@ -7,5 +7,87 @@
             "All images loaded in Durin-IV/Test project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://Durin-IV.github.io/Test/images/Memb-I-00081_0185v/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Memb-I-00081_0185v"
+                ]
+            },
+            "height": 1913,
+            "width": 1435,
+            "items": [
+                {
+                    "id": "https://Durin-IV.github.io/Test/images/Memb-I-00081_0185v/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Durin-IV.github.io/Test/images/Memb-I-00081_0185v/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Durin-IV.github.io/Test/images/Memb-I-00081_0185v/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 45,
+                                                "height": 60
+                                            },
+                                            {
+                                                "width": 90,
+                                                "height": 120
+                                            },
+                                            {
+                                                "width": 180,
+                                                "height": 240
+                                            },
+                                            {
+                                                "width": 359,
+                                                "height": 479
+                                            },
+                                            {
+                                                "width": 718,
+                                                "height": 957
+                                            },
+                                            {
+                                                "width": 1435,
+                                                "height": 1913
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1435,
+                                        "@id": "https://Durin-IV.github.io/Test/images/Memb-I-00081_0185v",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1913,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Durin-IV.github.io/Test/images/Memb-I-00081_0185v/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

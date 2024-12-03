@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 45,
+    "height" : 60
+  }, {
+    "width" : 90,
+    "height" : 120
+  }, {
+    "width" : 180,
+    "height" : 240
+  }, {
+    "width" : 359,
+    "height" : 479
+  }, {
+    "width" : 718,
+    "height" : 957
+  }, {
+    "width" : 1435,
+    "height" : 1913
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1435,
+  "@id" : "https://Durin-IV.github.io/Test/images/Memb-I-00081_0185v",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1913
+}
